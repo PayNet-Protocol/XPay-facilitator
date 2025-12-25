@@ -1,10 +1,10 @@
-# PayNet Facilitator
+# XPay Facilitator
 
 > Blockchain transaction verification service for the x402 payment protocol
 
-PayNet is a facilitator service that verifies stablecoin transactions across multiple blockchains, enabling instant, programmatic payments for APIs and AI agents.
+XPay is a facilitator service that verifies stablecoin transactions across multiple blockchains, enabling instant, programmatic payments for APIs and AI agents.
 
-**Live Demo:** https://paynet.network
+**Live Demo:** https://chargexpay.com
 
 ##  Features
 
@@ -16,12 +16,12 @@ PayNet is a facilitator service that verifies stablecoin transactions across mul
 
 ##  Quick Start
 
-Visit [paynet.network/quickstart](https://paynet.network/quickstart) for complete integration guide.
+Visit [chargexpay.com/quickstart](https://chargexpay/quickstart) for complete integration guide.
 
 ##  API Example
 
 ```bash
-POST https://paynet.network/api/facilitator/verify
+POST https://chargexpay.com/api/facilitator/verify
 
 {
   "hash": "transaction_hash",
@@ -36,9 +36,9 @@ Base (USDC) - 12 confirmations
 Polygon (USDC) - 20 confirmations
 Avalanche (USDC) - 15 confirmations
 🔗 Links
-Website: https://paynet.network
-Documentation: https://paynet.network/documentation
-Live Demo: https://paynet.network/demo
-Twitter: https://x.com/PayNetProtocol
+Website: https://chargexpay.com
+Documentation: https://chargexpay.com/documentation
+Live Demo: https://chargexpay.com/demo
+Twitter: https://x.com/xpay402
 📄 License
 Apache 2.0
